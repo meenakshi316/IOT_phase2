@@ -1,0 +1,49 @@
+﻿UEI,Start Date ,End Date,Duration(Days),Main Cause,Location,Districts,State,Latitude,Longitude,Severity,Area Affected,Human fatality,Human injured,Human Displaced,Animal Fatality,Description of Casualties/injured,,Event Source,Event Souce ID
+UEI-DFO-FL-2017-0001,06-02-2017,07-03-2017,29,Monsoonal rain,NA,NA,NA,27.6131,94.9387,1,65387.73,6,NA,113,NA,NA,NA,DFO,4483
+UEI-EM-DAT-FL-2017-0002,01-06-2017,31/06/2017,Diffing the dates,NA,Gujarat,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2017-0257
+UEI-EM-DAT-FL-2017-0001,04-06-2017,06-06-2017,2,NA,"Lakhimpur, Karimganj, Darrang districts (Assam), Nagaland, Manipur, Jharkhand",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2017-0180
+UEI-EM-DAT-FL-2017-0003,25-06-2017,24-07-2017,29,Riverine flood,"Lakhimpur, Bangaigaon, Jorhat, Golaghat, Cachar, Dhemjai, Biswanath, Karimganj, Barpeta, Karbi Anglong, Sonitpur, Darrang, Hojai (Sub Division), Bhuragaon (Sub Division), Majuli, Nagaon, Nalbari, Sivasagar, Morigaon, Chirang, Dibrugarh, Dhubri, Kokrajhar, South Salmara, Charaideo, Goalpara districts (Assam)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2017-0289
+UEI-DFO-FL-2017-0002,15-07-2017,20-07-2017,5,Monsoonal rain,NA,NA,NA,21.898,70.9375,1,31956.12,94,NA,3000,NA,NA,NA,DFO,4498
+UEI-DFO-FL-2017-0003,27-07-2017,08-10-2017,73,Monsoonal rain,NA,NA,NA,22.9061,88.0848,1,43809.39,39,NA,47000,NA,NA,NA,DFO,4499
+UEI-EM-DAT-FL-2017-0006,11-08-2017,31-08-2017,20,NA,"Araria, Jogbani (Bihar); Uttar Pradesh, West Bengal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2017-0342
+UEI-EM-DAT-FL-2017-0009,16-08-2017,23-08-2017,7,NA,"Uttar Pradesh (Siddharthnagar, Balarampur, Bahraich, Shravasti, Maharajganj, Barabanki, Lakhimpur Kheri, Gorakhpur, Muzaffarnagar, Gonda, Basti, Mirzapur, Khiri, Deoria, Sitapur, Bijnore, Faizabad, Pilibhit, Farrukhabad, Mau, Kushinagar, Badaun, Ambedkar nagar, Azamgarh, Santkabir Nagar, Ghazipur, Balia)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2017-0517
+UEI-EM-DAT-FL-2017-0007,29-08-2017,29-08-2017,0,Flash flood,"Mumbai (Dadar, Khar, Bandra, Lalbaug, Kalina, Sion, Byculla, Matunga, Wadala, Parel, Khar-Danda, Pali Hill, Carter Road, Bandra, Ghatkopar, Bhandup, Mulund, and Santacruz), Thane (Maharashtra)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2017-0364
+UEI-DFO-FL-2017-0004,08-10-2017,26-08-2017,Diffing the dates,Monsoonal rain,NA,NA,NA,28.1657,79.076,2,421575.24,253,NA,422106,NA,NA,NA,DFO,4507
+UEI-DFO-FL-2017-0005,30-10-2017,11-08-2017,Diffing the dates,Heavy Rain,NA,NA,NA,10.489,79.0039,1.5,50536.26,4,NA,4000,NA,NA,NA,DFO,4532
+UEI-EM-DAT-FL-2017-0008,30-10-2017,08-11-2017,9,Flash flood,Chenai (Tamil Nadu),NA,NA,10.489,79.004,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2017-0495
+UEI-DFO-FL-2018-0009,09-01-2018,09-07-2018,181,Monsoonal rain,NA,NA,NA,25.7354,82.4309,1.5,70859.96,20,NA,1000,NA,NA,NA,DFO,4673
+UEI-DFO-FL-2018-0008,08-02-2018,08-10-2018,242,Monsoonal rain,NA,NA,NA,27.2914,94.1222,1.5,73328.62,0,NA,25000,NA,NA,NA,DFO,4665
+UEI-EM-DAT-FL-2018-0002,17-05-2018,20-05-2018,3,Flash flood,Tripura state,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0213
+UEI-DFO-FL-2018-0001,29-05-2018,30-05-2018,1,Torrential rain,NA,NA,NA,14.3584,75.4408,1.5,116730.41,3,NA,300,NA,NA,NA,DFO,4622
+UEI-EM-DAT-FL-2018-0003,29-05-2018,31-05-2018,2,NA, Dakshina Kannada and Udupi districts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0216
+UEI-DFO-FL-2018-0005,07-06-2018,07-11-2018,153,Monsoonal rain,NA,NA,NA,19.5656,74.5501,1.5,116871.19,1,NA,300,NA,NA,NA,DFO,4644
+UEI-DFO-FL-2018-0004,22-06-2018,07-02-2018,Diffing the dates,Monsoonal rain,NA,NA,NA,20.9795,73.783,1,57211.12,20,NA,0,NA,NA,NA,DFO,4641
+UEI-EM-DAT-FL-2018-0001,22-06-2018,03-07-2018,11,NA,"Assam, Maharashtra, Gujarat",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0205
+UEI-DFO-FL-2018-0003,25-06-2018,07-11-2018,135,Monsoonal rain,NA,NA,NA,33.3752,75.1439,1,25994.04,3,NA,0,NA,NA,NA,DFO,4640
+UEI-DFO-FL-2018-0007,08-07-2018,08-10-2018,92,Monsoonal rain,NA,NA,NA,9.39943,76.7275,1.5,24440.47,20,NA,1000,NA,NA,NA,DFO,4663
+UEI-EM-DAT-FL-2018-0005,20-07-2018,23-07-2018,3,NA,Odisha state,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0286
+UEI-EM-DAT-FL-2018-0004,26-07-2018,28-07-2018,2,NA,"Uttar Pradesh, Rajasthan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0267
+UEI-EM-DAT-FL-2018-0007,02-08-2018,06-08-2018,4,NA,"Biswanath, Udalguri, Golaghat, Sivassagar/Charaideo, Barpeta, Lakhimpu, Dhemaji, Darrang (Assam, West Bengal)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0345
+UEI-EM-DAT-FL-2018-0006,07-08-2018,20-08-2018,13,Flash flood,"Thrissur, Chengannur (Kerala state); West Bengal, Odisha, Assam, Nagaland, Uttar Pradesh, Himachal Pradesh, Maharashtra states",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0295
+UEI-DFO-FL-2018-0010,15-08-2018,09-07-2018,Diffing the dates,Monsoonal rain,NA,NA,NA,26.0513,94.7655,1.5,28864.54,11,NA,2000,NA,NA,NA,DFO,4675
+UEI-EM-DAT-FL-2018-0008,01-09-2018,06-10-2018,35,NA,Uttar Pradesh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0370
+UEI-DFO-FL-2018-0006,07-09-2018,19-07-2018,Diffing the dates,Monsoonal rain,NA,NA,NA,12.5238,75.6883,1.5,153840.07,12,NA,34000,NA,NA,NA,DFO,4656
+UEI-DFO-FL-2018-0011,23-09-2018,10-02-2018,Diffing the dates,Torrential rain,NA,NA,NA,31.3414,76.6285,1,114348.33,28,NA,935,NA,NA,NA,DFO,4684
+UEI-EM-DAT-FL-2018-0009,23-09-2018,24-09-2018,1,NA,"Punjab, Haryana states",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2018-0372
+UEI-DFO-FL-2018-0012,10-11-2018,10-12-2018,30,Tropical cyclone,NA,NA,NA,17.9,83.3588,1.5,87682.57,7,NA,300000,NA,NA,NA,DFO,4686
+UEI-DFO-FL-2018-0002,06-12-2018,20-06-2018,Diffing the dates,Monsoonal rain,NA,NA,NA,26.8948,93.3551,1.5,209440.59,20,NA,800000,NA,NA,NA,DFO,4634
+UEI-DFO-FL-2019-0004,07-01-2019,07-05-2019,120,Torrential rain,NA,NA,NA,20.2969,74.748,1.5,113845.85,36,NA,0,NA,NA,NA,DFO,4775
+UEI-DFO-FL-2019-0001,05-03-2019,05-07-2019,122,Tropical cyclone,NA,NA,NA,21.5427,87.4662,1.5,123330.04,43,NA,1400000,NA,NA,NA,DFO,4746
+UEI-DFO-FL-2019-0006,08-05-2019,08-09-2019,123,Monsoonal rain,NA,NA,NA,19.1145,83.4825,1.5,302736.26,25,NA,112500,NA,NA,NA,DFO,4785
+UEI-DFO-FL-2019-0002,24-05-2019,27-05-2019,3,Heavy Rain,NA,NA,NA,23.4991,91.5736,1.5,9467.55,0,NA,750,NA,NA,NA,DFO,4752
+UEI-DFO-FL-2019-0005,08-06-2019,08-09-2019,92,Monsoonal rain,NA,NA,NA,11.4575,76.0842,1.5,94518.75,0,NA,22000,NA,NA,NA,DFO,4784
+UEI-DFO-FL-2019-0003,27-06-2019,13-07-2019,16,Monsoonal rain,NA,NA,NA,27.3531,94.3944,1,67022.92,3,NA,50000,NA,NA,NA,DFO,4772
+UEI-EM-DAT-FL-2019-0001,28-06-2019,04-07-2019,6,NA,"Mumbai, Pune, Ratnagiri Districts (Maharashtra State)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2019-0288
+UEI-EM-DAT-FL-2019-0002,14-07-2019,30-09-2019,78,NA,"Sitamarhi, Sheohar, East Champaran, Muzaffarpur, Madhubani, Darbhanga, Supaul, Araria, Sahersa , Katihar, Purnia, Kishanganj districts (Bihar); Dhemaji, Lakhimpur, Biswanath, Barpeta, Chirang, Golaghat Jorhat, Sonitpur, Darrang, Nalbari, Bongaigaon, Morigaon, Nagaon, Majuli, Baksa, Kokrajhar, Dhubri, South Salmara, Goalpara, Kamrup, Hojai, Sivsagar, Tinsukia, Cachar, KarbiAnglrng, West Karbi-Anglong, Hailakandi,  Dibrugarh districts (Assam); Maharashtra, Kerala, Rajasthan, West Bengal, Karnataka, Uttarakand, Himachal Pradesh, Punjab, Uttar Pradesh, Odisha",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2019-0331
+UEI-EM-DAT-FL-2019-0003,12-08-2019,15-08-2019,3,NA,"West Bengal, Kerala, Odisha, Maharashtra",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2019-0383
+UEI-DFO-FL-2019-0007,13-09-2019,22-09-2019,9,Monsoonal rain,NA,NA,NA,25.3928,74.3521,1.5,180233.95,0,NA,4500,NA,NA,NA,DFO,4798
+UEI-DFO-FL-2019-0008,15-09-2019,22-09-2019,7,Monsoonal rain,NA,NA,NA,24.1511,77.3956,1.5,236728.11,0,NA,45000,NA,NA,NA,DFO,4799
+UEI-EM-DAT-FL-2019-0004,19-10-2019,23-10-2019,4,NA,"Belagavi, Gadag, Koppal districts (Karnataka); Kerala, Tamil Nadu states",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2019-0499
+UEI-DFO-FL-2019-0009,25-10-2019,11-06-2019,Diffing the dates,Heavy Rain,NA,NA,NA,27.0678,94.2459,1,106818.77,2,NA,1000,NA,NA,NA,DFO,4822
+UEI-EM-DAT-FL-2019-0005,29-11-2019,04-12-2019,5,NA,"Coimbatore, Cuddalore, Nagapattinam, Thoothukkudi Districts (Tamil Nadu); Pudducherry",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EM-DAT,2019-0574
+UEI-DFO-FL-2019-0010,30-11-2019,12-06-2019,Diffing the dates,Heavy Rain,NA,NA,NA,10.8488,78.8554,1.5,104755.46,30,NA,1000,NA,NA,NA,DFO,4832
